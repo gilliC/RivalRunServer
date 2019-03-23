@@ -1,0 +1,9 @@
+C:/Users/User/Desktop/ServerTry1/ServerTry1/bin/Debug/ServerTry1.exe
+C:/Users/User/Desktop/ServerTry1/ServerTry1/bin/Debug/ServerTry1.pdb
+C:/Users/User/Desktop/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.csprojResolveAssemblyReference.cache
+C:/Users/User/Desktop/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.exe
+C:/Users/User/Desktop/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.pdb
+C:/Users/User/Desktop/RivalRun/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.exe
+C:/Users/User/Desktop/RivalRun/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.pdb
+/Users/gillicarmon/Downloads/RivalRunUpdated/Gilli & Maya FinalProj Rival Run/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.exe
+/Users/gillicarmon/Downloads/RivalRunUpdated/Gilli & Maya FinalProj Rival Run/ServerTry1/ServerTry1/obj/x86/Debug/ServerTry1.pdb

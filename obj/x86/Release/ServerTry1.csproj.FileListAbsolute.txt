@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ServerTry1\ServerTry1\bin\Release\ServerTry1.exe
+C:\Users\User\Desktop\ServerTry1\ServerTry1\bin\Release\ServerTry1.pdb
+C:\Users\User\Desktop\ServerTry1\ServerTry1\obj\x86\Release\ServerTry1.exe
+C:\Users\User\Desktop\ServerTry1\ServerTry1\obj\x86\Release\ServerTry1.pdb
+C:\Users\User\Desktop\ServerTry1\ServerTry1\obj\x86\Release\ServerTry1.csprojResolveAssemblyReference.cache
